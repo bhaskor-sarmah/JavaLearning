@@ -72,7 +72,8 @@
       </plugins>
     </pluginManagement>
   </build>
-<modules>  <module>DataStructureAndAlgo</module>
+  <modules>
+    <module>DataStructureAndAlgo</module>
     <module>ProblemSolving</module>
     <module>JavaFeatures</module>
   </modules>
